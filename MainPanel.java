@@ -36,7 +36,7 @@ public class MainPanel extends JPanel {
 	String n = String.valueOf(x);
 	int q = Integer.parseInt(n);
 	return q;
-	
+
     }
     
     private int getNumNeighbors(int x, int y) {
